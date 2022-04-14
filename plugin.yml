@@ -1,0 +1,7 @@
+name: FPS
+version: 0.0.1
+author: DarkenedFusion
+main: io.github.darkenedfusion.Main
+api-version: 1.18
+commands:
+  grant:
